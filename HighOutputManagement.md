@@ -104,20 +104,85 @@ by Andy S. Grove
 ## Meetings – the medium of managerial work
 
 * A manager's job includes
-  * sharing knowledge
-  * imparting a sense of the preferred way of doing things
-  * making decisions
-* These activities mostyl happen in **meetings**
+  * sharing **knowledge**
+  * imparting a sense of the **preferred way of doing things**
+  * making **decisions**
+* These activities mostly happen in **meetings**.
 * We should not fight the existence of meetings, but rather use them efficiently.
 * Two basic **types of meetings**:
-  * Process-oriented
+  * **Process-oriented**
     * People attending should know how the meeting is run and what is usually discussed
-    * Opportunity to "batch" transactions
-      * One-on-One
-        * Principal way the relationship between manager and subordinate is maintained
-        * Venue for mutual teaching and exchange of information
+    * Opportunity to **"batch" transactions**
+      * **One-on-One**
+        * Principal way the **relationship between manager and subordinate** is maintained
+        * Venue for **mutual teaching** and **exchange of information**
         * Dedicated space to talk about specific problems and situations
-        * Frequency depends on the task relevant maturity - how much experience does the employee have in the current role or the task at hand?
-        * Frequency also depends on the job area - e.g. how dynamic is the job area and how often do things change in the environment?
-        * Duration should be at least 1 hour to allow for deeper discussion and complex problems, otherwise the subordinate 
-  * Mission oriented
+        * Frequency depends on the **task relevant maturity** - how much experience does the employee have in the current role or the task at hand?
+        * Frequency also depends on the **job area** - e.g. how dynamic is the job area and how often do things change in the environment?
+        * **Duration** should be at least 1 hour to allow for deeper discussion and complex problems, otherwise the subordinate 
+  * **Mission oriented**
+    * Held ad-hoc and aimed at a specific outcome, often a **decision**
+    * **Chairman** often just shows up as an attendee, and meeting fails to achieve intended outcome
+    * **Chairman's obligations:**
+      * Send invite and pre-empt or follow up to get **commitments** - if someone can't attend, they should send a deputy
+      * Ensure a meeting is less than **8 people**, otherwise attendees get passive
+      * Don't allow people to be **late**, and call them out
+      * Send an **agenda** ahead of the meeting
+      * Send **minutes** after the meeting
+  * **Meetings are not evil** per se, the real sign of misorganization is if people spend more than 25% of their time in ad-hoc mission-oriented meetings.
+
+## Decisions
+* Rapid divergence in knowledge-driven companies between power based on position and power based on knowledge. The middle manager is the link between the two.
+* **Ideal model of decision making**
+  * *Free discussion*: Allow everyone to speak, and ask those who haven't said anything to contribute - that's why they are in the meeting.
+  * *Clear decision*: Make sure to frame the terms of the decision **clearly**.
+  * *Full support*: Disagree-and-commit; even if not everyone is on board, ask them to support the decision.
+* This method is natural for younger graduates, but **managers struggle** because they fear embarassment if they express their views forcefully.
+* Decisions should be always made at the **lowest competent level**, allowing discussion at an equal level at least during the free discussion phase
+* *Side note: The lack of status symbols is a feature of tech companies, not a bug, exactly for the above reasons*
+* **Peer-group syndrome**
+  * Often meetings will wander on without a clear decision being made
+  * This can be fixed with the **peer-plus-one** approach, inviting one additional person who is in a higher position to step in if the subordinates cannot reach agreement.
+  * Peers often won't stick their neck out, this leads to a danger of *group opinion*, where one member states a weak opinion, which is then restated by a peer more forcefully, and eventually becomes the ruling opinion just because it feels comfortable.
+  * The person who has **most at stake** should take charge in meetings, and invite the senior to take over if needed.
+* **Optimimum point for decision**
+  * A manager strives for the output by finding the optimum point for making a decision.
+    * **Too early** if you haven't heard the real issues from everyone
+    * **Too late** if the discussion meanders on with no new information
+    * Manager needs to have the courage to **force a decision**
+* **Six questions** about decisions
+  * *What* decision needs to be made?
+  * *When* does the decision have to be made?
+  * *Who* will decide?
+  * *Who* will need to be consulted before and after the decision is made?
+  * *Who* will ratify or veto the decision?
+  * *Who* will need to be informed of the decision?
+
+## Planning
+
+* General planning process consists of three steps:
+  1. Establish a projected need or demand
+  2. Establish your present status
+  3. Compare and reconcile steps 1 and 2
+* The set of actions you decide to close the gap between projection and present is your **strategy**.
+* The implementation of these actions are your **tactics**.
+* **Management by Objectives**
+  * Basically outlines OKRs
+    1. Where do you want to go (Objective)?
+    2. How will I pace myself to see if I'm getting there (Key Result)?
+
+# TEAM OF TEAMS
+
+## Hybrid Organizations
+* Organzations come in two extremes:
+  * **Mission-oriented organisations**: Decentralized, each group pursues its own business with little interaction with other groups.
+  * **Functional organisations**: Centralized, each group provides a function at scale (Finance, Operations, Merchandising, etc.)
+* **Sloan:** "Good management rests on a reconciliation of decentralization and centralization."
+* **Grove's Law**: All large organizations with a common business purpose end up in a hybrid organizational form.
+
+## Modes of Control
+* Behaviour in work environments can be controlled by three invisible and pervasive means
+  1. Free-market forces
+  2. Contractual obligations
+  3. Cultural values
+* Free market forces
